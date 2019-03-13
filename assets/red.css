@@ -1,0 +1,11 @@
+a{
+	color:#f3c210;
+}
+a:hover{
+	color:#d82424;
+}
+.post-nav a{
+	background:#cc3030;
+	color:#fff;
+	padding:5px 10px;
+}
